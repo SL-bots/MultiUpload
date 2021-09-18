@@ -1,8 +1,8 @@
-# HARP MultiUpload V2.0 👀
+# MultiUpload V2.0 👀
 
 #### _A Bot to Upload files to Many Cloud services. Powered by Telethon_
 
-_🎯 Follow me and star this repo for more telegram bots. @AnjanaMadu_
+_🎯 Follow me and star this repo for more telegram bots._
 
 <p align="center">
   <img src="https://telegra.ph/file/4e567b442c79d6379d198.jpg">
@@ -26,20 +26,20 @@ _🎯 Follow me and star this repo for more telegram bots. @AnjanaMadu_
  - BOT_TOKEN: Go to [@BotFather](https://telegram.me/botfather) and Create new bot. Insert that bot's bot token.
  - LOG_CHANNEL: A channel ID to log all user activities.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HarpTechOrg/multiupload)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Bots/multiupload)
 
 ## 🚩 Credits
 - [Lucifeermorningstar](https://github.com/lucifeermorningstar) for Telethon Bot Base. (A Daisy Owner)
 - [Amarnath C](https://github.com/AmarnathCJD) for Force Sub and Many More.. (A Daisy Dev)
 - [LonamiWebs](https://github.com/LonamiWebs) for Telethon.
-- [Me](https://github.com/AnjanaMadu) for this Project 🤪
+- [AnjanaMadu](https://github.com/AnjanaMadu) for this Project 🤪
+- [Me](https://github.com/TharukRenuja) for modified this project and added some extra features.
 
 ## 🚩 License
 
 ```
 MultiUpload, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu and Amarnath CDJ <https://github.com/AnjanaMadu>
-
+Copyright (c) 2021 Anjana Madu, Amarnath CDJ & Tharuk Renuja
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
